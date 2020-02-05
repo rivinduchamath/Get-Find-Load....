@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 - Bootstrapping/1 - Bootstrapping.iml" filepath="$PROJECT_DIR$/1 - Bootstrapping/1 - Bootstrapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - CRUD Operations/3 - CRUD Operations.iml" filepath="$PROJECT_DIR$/3 - CRUD Operations/3 - CRUD Operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 - Relationships/4 - Relationships.iml" filepath="$PROJECT_DIR$/4 - Relationships/4 - Relationships.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 - Exer/5 - Exer.iml" filepath="$PROJECT_DIR$/5 - Exer/5 - Exer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6 - Mizalinious/6 - Mizalinious.iml" filepath="$PROJECT_DIR$/6 - Mizalinious/6 - Mizalinious.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7 - JAR Architecture/7 - JAR Architecture.iml" filepath="$PROJECT_DIR$/7 - JAR Architecture/7 - JAR Architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8 - JAR Bootstrapping/8 - JAR Bootstrapping.iml" filepath="$PROJECT_DIR$/8 - JAR Bootstrapping/8 - JAR Bootstrapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9 - JAR Bootstrapping2/9 - JAR Bootstrapping2.iml" filepath="$PROJECT_DIR$/9 - JAR Bootstrapping2/9 - JAR Bootstrapping2.iml" />
+    </modules>
+  </component>
+</project>
